@@ -79,10 +79,5 @@ A professional Point of Sale (POS) system built with **Laravel 9**, **Inertia.js
    php artisan serve
    ```
 
----
-
-## 📸 Screenshots
-*(Add screenshots here to show off the UI)*
-
 ## 📄 License
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
